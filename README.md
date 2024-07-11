@@ -1,7 +1,7 @@
 ## Install
 ### Clone the project
 ```bash
-git clone https://github.com/mrn3088/tutor.git
+git clone https://github.com/BowenYao18/tutor.git
 ```
 ### Create virtual environment
 ```bash
